@@ -139,7 +139,7 @@ const portfolioData = {
     ssc: {
         title: "Secondary School Certificate (SSC)",
         icon: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>`,
-        description: "Bhendabari M. L High School in Science group. GPA: 5.00 (Session 2017).",
+        description: "Kishoreganj M.L high school in Science group. GPA: 5.00 (Session 2017).",
         projects: [
             { name: "Science Track", desc: "Built foundational knowledge in general sciences and analytical problem solving.", tech: [] }
         ]
