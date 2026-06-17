@@ -1,6 +1,6 @@
 {
   "framework": "static",
-  "public": "Frontend",
+  "outputDirectory": "Frontend",
   "rewrites": [
     {
       "source": "/Assets/:path*",
