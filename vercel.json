@@ -1,5 +1,14 @@
 {
   "framework": "static",
-  "buildCommand": "",
-  "outputDirectory": "Frontend"
+  "public": "Frontend",
+  "rewrites": [
+    {
+      "source": "/Assets/:path*",
+      "destination": "/../Assets/:path*"
+    },
+    {
+      "source": "/:path*",
+      "destination": "/index.html"
+    }
+  ]
 }
