@@ -1,14 +1,3 @@
 {
-  "framework": "static",
-  "outputDirectory": "Frontend",
-  "rewrites": [
-    {
-      "source": "/Assets/:path*",
-      "destination": "/../Assets/:path*"
-    },
-    {
-      "source": "/:path*",
-      "destination": "/index.html"
-    }
-  ]
+  "outputDirectory": "Frontend"
 }
